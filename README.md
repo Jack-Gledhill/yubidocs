@@ -5,3 +5,7 @@ This is a quick write-up of how I setup my YubiKeys for accessing servers, signi
 ## YubiKeys
 
 My key of choice is the [YubiKey 5C NFC](https://www.yubico.com/gb/product/yubikey-5-series/yubikey-5c-nfc/), but any series 5 YubiKey will work. I own two: one primary and one backup.
+
+## SSH
+
+## GPG
